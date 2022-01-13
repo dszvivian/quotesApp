@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">quotesApp</string>
+    <string name="truthQuote">Truth Quote</string>
+    <string name="quoteElon">When something is important enough, you do it even if the odds are not in your favor.</string>
+</resources>
